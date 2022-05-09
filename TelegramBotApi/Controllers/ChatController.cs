@@ -4,8 +4,8 @@ using System.Threading;
 using System.Threading.Tasks;
 using Telegram.Bot;
 using TelegramBotApi.DataAccess;
+using TelegramBotApi.Helpers;
 using TelegramBotApi.Models;
-using TelegramBotHelpers;
 
 namespace TelegramBotApi.Controllers
 {

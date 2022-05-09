@@ -3,7 +3,7 @@ using System.Net;
 using System.Net.Http;
 using Telegram.Bot;
 using Telegram.Bot.Args;
-using TelegramBotHelpers;
+using TelegramBotApi.Helpers;
 
 namespace TelegramBot
 {
